@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">VisitasCard</string>
+    <string name="label_business_card">Cartão de Visitas</string>
+    <string name="label_description_newcard">Novo Cartão</string>
+    <string name="label_name">Nome</string>
+    <string name="label_telefone">Telefone</string>
+    <string name="label_company_name">Empresa</string>
+    <string name="label_confirm">Confirmar</string>
+    <string name="label_color">Clique aqui para trocar a cor do seu cartão</string>
+    <string name="label_show_success">Card foi cadastrado</string>
+    <string name="label_share_to">Compartilhar</string>
+    <string name="emptyName">É necessario informar um nome</string>
+    <string name="emptyTelefone">É necessario informar um telefone valido</string>
+    <string name="emptyEmpresa">É necessario informar uma empresa</string>
+    <string name="emptyEmail">É necessario informar um email</string>
+</resources>
