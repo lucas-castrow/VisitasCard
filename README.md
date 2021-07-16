@@ -12,4 +12,4 @@ O intuito era criar um aplicativo de cartão de visitas em que se informava os d
 
 
 **Cadastro de card**
-<img src="https://user-images.githubusercontent.com/33181463/125997537-37f983e1-7f6a-4143-9430-41679231cc86.jpg" width="320" height="620"/>
+<img src="https://user-images.githubusercontent.com/33181463/125997537-37f983e1-7f6a-4143-9430-41679231cc86.jpg" width="340" height="620"/>
