@@ -13,9 +13,17 @@ O intuito era criar um aplicativo de cartão de visitas em que se informava os d
 
 **Cadastro de card**
 
+Ao selecionar uma imagem é possivel ver o preview dela
 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/33181463/125997537-37f983e1-7f6a-4143-9430-41679231cc86.jpg" width="340" height="620"/>
   <img src="https://user-images.githubusercontent.com/33181463/125997542-9d22e6a7-a3fb-4ce3-bc87-152969884f5f.jpg" width="340" height="620" /> 
-  <img src="https://user-images.githubusercontent.com/33181463/125997542-9d22e6a7-a3fb-4ce3-bc87-152969884f5f.jpg" width="340" height="620" /> 
+</p>
+
+
+Ao selecionar uma cor atraves do Color Picker tambem é possivel ver a ultima cor selecionada
+Erros ao inserir dados invalidos
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/33181463/125997541-293680bf-0766-475b-ad12-13dcbf90e87c.jpg" width="340" height="620"/>
+  <img src="https://user-images.githubusercontent.com/33181463/125997539-a86d41a9-dbc2-4803-aaa7-6ccfc4a27d9b.jpg" width="340" height="620" /> 
 </p>
